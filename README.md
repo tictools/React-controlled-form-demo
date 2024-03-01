@@ -4,7 +4,7 @@
 
 # React State Management
 
-React State Management demo based on [**fullstackopen** course](https://fullstackopen.com/en/).
+React Controlled Form demo based on [**fullstackopen** course](https://fullstackopen.com/en/).
 
 ## Contents
 
@@ -15,3 +15,7 @@ React State Management demo based on [**fullstackopen** course](https://fullstac
 - fluid layout (mobile first)
 
 ## Deploy
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7cfff855-5ccb-410e-83b5-cfd029f81de5/deploy-status)](https://app.netlify.com/sites/react-phonebook-form/deploys)
+
+https://react-phonebook-form.netlify.app/
+
