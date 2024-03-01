@@ -1,0 +1,1 @@
+export { isPersonRegistered } from "./isPersonRegistered";
