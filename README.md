@@ -1,5 +1,5 @@
 <div style="text-align: center">
-   <img src="./public/React-icon.svg" alt="DOM Tree" width="100" />
+   <img src="./public/react.svg" alt="DOM Tree" width="100" />
 </div>
 
 # React State Management
@@ -15,7 +15,7 @@ React Controlled Form demo based on [**fullstackopen** course](https://fullstack
 - fluid layout (mobile first)
 
 ## Deploy
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7cfff855-5ccb-410e-83b5-cfd029f81de5/deploy-status)](https://app.netlify.com/sites/react-phonebook-form/deploys)
 
 https://react-phonebook-form.netlify.app/
-
