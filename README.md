@@ -2,7 +2,7 @@
    <img src="./public/react.svg" alt="DOM Tree" width="100" />
 </div>
 
-# React State Management
+# React Controlled Form
 
 React Controlled Form demo based on [**fullstackopen** course](https://fullstackopen.com/en/).
 
