@@ -17,7 +17,7 @@ const App = () => {
   return (
     <div className="main">
       <MainHeader textContent="React controlled form" />
-      <dix className="wrapper">
+      <div className="wrapper">
         <Section>
           <SectionHeader textContent="New register" />
           <PhonebookForm
@@ -36,7 +36,7 @@ const App = () => {
           />
           <PhoneBook persons={persons} />
         </Section>
-      </dix>
+      </div>
       <WarningModal
         updateWarningStateWith={updateWarningStateWith}
         warningState={warningState}
