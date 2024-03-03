@@ -10,7 +10,7 @@ describe("isPersonRegistered", () => {
       expect(result).toBe(true);
     });
 
-    test.only("When provided name with many white spaces is registered Then true should be returned", () => {
+    test("When provided name with many white spaces is registered Then true should be returned", () => {
       const result = isPersonRegistered(persons, "  John Doe  ");
       expect(result).toBe(true);
     });
